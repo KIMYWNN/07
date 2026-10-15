@@ -11,5 +11,5 @@ int main (void) {
         flag = 0;
     }
     y = 4;
-    return 0;
+    
 }
